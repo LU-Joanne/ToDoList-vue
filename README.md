@@ -1,6 +1,6 @@
 # ToDoList-vue
 
-此專案使用Vue 3 (Composition API)開發的 To-Do List。除了增刪功能外，還有雙擊編輯儲存與取消，模擬真實應用中的互動體驗。
+> 此專案使用Vue 3 (Composition API)開發的 To-Do List。除了增刪功能外，還有雙擊編輯儲存與取消，模擬真實應用中的互動體驗。
 
 ## 功能
 - 新增事項：輸入文字並按 Enter 或點擊按鈕即可加入清單。
@@ -15,8 +15,10 @@
 
 ## 資料夾說明
 - src
-  - components 元件放置處
-  - assets 靜態檔案放置處
+  - components：元件放置處
+    - TodoList.vue
+  - App.vue 
+  - assets：靜態檔案放置處
 
 ## 在 Local 端的安裝＆運行步驟
 Node.js 建議為LTS 版本
